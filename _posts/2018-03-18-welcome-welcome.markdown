@@ -1,0 +1,14 @@
+---
+layout: post
+title: Welcome
+date: 2018-03-18 00:00:00 +0100
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: hello.jpg # Add image post (optional)
+tags: [hello] # add tag
+---
+
+
+Hello everyone, my name is Nataša and I am from Novi Sad, Serbia. This is my first project and I have to say, I am very excited about it. Through the future posts, you will get to know more about me and my adventures.
+
+
+Thank you for visiting, I hope that you will enjoy my journey!
